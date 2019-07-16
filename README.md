@@ -1,4 +1,4 @@
-##Generic RecordType utility helper class 
+## Generic RecordType utility helper class 
 Assists with getting and working with Salesforce record types.
 
 ```
